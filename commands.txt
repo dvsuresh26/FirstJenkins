@@ -1,0 +1,11 @@
+Git init
+git status
+git add .
+git add . myfile.java
+git commit -m "message"
+
+git remote add origin link
+git push -u origin master
+
+git config --global user.name dvsuresh26
+git config --global user.password Vsvsvs@1
